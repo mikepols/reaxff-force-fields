@@ -14,8 +14,8 @@ Force field files can straightforwardly be used for simulations in software pack
 
 ## References
 
-1. M. Pols *et al.*, *J. Phys. Chem. Lett.*, 12, 5519-5525 (2021), DOI:  [`10.1021/acs.jpclett.1c01192`](https://doi.org/10.1021/acs.jpclett.1c01192). [Parameterization of `IPbCs.ff`]  
+1. M. Pols *et al.*, *J. Phys. Chem. Lett.*, 12, 5519-5525 (2021), DOI:  [`10.1021/acs.jpclett.1c01192`](https://doi.org/10.1021/acs.jpclett.1c01192). [`IPbCs.ff`]  
 2. M. Pols *et al.*, *ACS Appl. Mater. Interfaces*, 14, 40841–40850 (2022), DOI:  [`10.1021/acsami.2c09239`](https://doi.org/10.1021/acsami.2c09239).  
 3. J. Liu *et al.*, *Nano Lett.*, 23, 10089–10096 (2023), DOI:  [`10.1021/acs.nanolett.3c03761`](https://doi.org/10.1021/acs.nanolett.3c03761).  
-4. M. Pols *et al.*, *J. Phys. Chem. C*, 128, 4111-4118 (2024), DOI:  [`10.1021/acs.jpcc.4c00563`](https://doi.org/10.1021/acs.jpcc.4c00563). [Parameterization of `IBrPbCs.ff`]  
-5. C. Onwudinanti *et al.*, *J. Phys. Chem. C*, 126, 5950–5959 (2022), DOI:  [`10.1021/acs.jpcc.1c08776`](https://doi.org/10.1021/acs.jpcc.1c08776). [Parameterization of `RuH.ff`]  
+4. M. Pols *et al.*, *J. Phys. Chem. C*, 128, 4111-4118 (2024), DOI:  [`10.1021/acs.jpcc.4c00563`](https://doi.org/10.1021/acs.jpcc.4c00563). [`IBrPbCs.ff`]  
+5. C. Onwudinanti *et al.*, *J. Phys. Chem. C*, 126, 5950–5959 (2022), DOI:  [`10.1021/acs.jpcc.1c08776`](https://doi.org/10.1021/acs.jpcc.1c08776). [`RuH.ff`]  
