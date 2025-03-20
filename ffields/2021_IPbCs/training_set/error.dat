@@ -1,0 +1,235 @@
+                                                              FField value Ref value    1/Weight        Error           Total error    Percent
+PbI2_Hex_opt         Charge atom:   1                             0.7905      0.9190      0.0500         6.6077              6.6077      1.04
+PbI2_Hex_opt         Charge atom:   2                            -0.3952     -0.4590      0.0500         1.6263              8.2340      0.26
+PbI2_Hex_opt         Charge atom:   3                            -0.3952     -0.4600      0.0500         1.6777              9.9117      0.26
+CsI_CsCl_opt         Charge atom:   1                             0.7212      0.7930      0.0500         2.0649             11.9766      0.32
+CsI_CsCl_opt         Charge atom:   2                            -0.7212     -0.7930      0.0500         2.0649             14.0414      0.32
+CsPbI3_cubic_opt     Charge atom:   1                             0.6859      0.8920      0.1000         4.2495             18.2909      0.67
+CsPbI3_cubic_opt     Charge atom:   2                             0.7974      0.8720      0.1000         0.5564             18.8473      0.09
+CsPbI3_cubic_opt     Charge atom:   3                            -0.4944     -0.5880      0.1000         0.8757             19.7230      0.14
+CsPbI3_cubic_opt     Charge atom:   4                            -0.4944     -0.5880      0.1000         0.8757             20.5987      0.14
+CsPbI3_cubic_opt     Charge atom:   5                            -0.4944     -0.5880      0.1000         0.8757             21.4743      0.14
+CsPbI3_tetra_opt     Charge atom:   1                             0.6708      0.9290      0.1000         6.6652             28.1395      1.05
+CsPbI3_tetra_opt     Charge atom:   2                             0.6708      0.9290      0.1000         6.6652             34.8047      1.05
+CsPbI3_tetra_opt     Charge atom:   3                             0.8158      0.8410      0.1000         0.0634             34.8681      0.01
+CsPbI3_tetra_opt     Charge atom:   4                             0.8157      0.8410      0.1000         0.0639             34.9320      0.01
+CsPbI3_tetra_opt     Charge atom:   5                            -0.5044     -0.6010      0.1000         0.9323             35.8642      0.15
+CsPbI3_tetra_opt     Charge atom:   6                            -0.5044     -0.6010      0.1000         0.9323             36.7965      0.15
+CsPbI3_tetra_opt     Charge atom:   7                            -0.4911     -0.5850      0.1000         0.8814             37.6779      0.14
+CsPbI3_tetra_opt     Charge atom:   8                            -0.4911     -0.5840      0.1000         0.8627             38.5407      0.14
+CsPbI3_tetra_opt     Charge atom:   9                            -0.4865     -0.5840      0.1000         0.9497             39.4904      0.15
+CsPbI3_tetra_opt     Charge atom:  10                            -0.4955     -0.5850      0.1000         0.8005             40.2908      0.13
+CsPbI3_ortho_opt     Charge atom:   1                             0.6713      0.9380      0.1000         7.1120             47.4028      1.12
+CsPbI3_ortho_opt     Charge atom:   2                             0.6713      0.9380      0.1000         7.1141             54.5169      1.12
+CsPbI3_ortho_opt     Charge atom:   3                             0.6712      0.9380      0.1000         7.1168             61.6337      1.12
+CsPbI3_ortho_opt     Charge atom:   4                             0.6712      0.9380      0.1000         7.1162             68.7500      1.12
+CsPbI3_ortho_opt     Charge atom:   5                             0.8269      0.8210      0.1000         0.0035             68.7535      0.00
+CsPbI3_ortho_opt     Charge atom:   6                             0.8335      0.8210      0.1000         0.0156             68.7691      0.00
+CsPbI3_ortho_opt     Charge atom:   7                             0.8330      0.8210      0.1000         0.0144             68.7834      0.00
+CsPbI3_ortho_opt     Charge atom:   8                             0.8275      0.8210      0.1000         0.0042             68.7876      0.00
+CsPbI3_ortho_opt     Charge atom:   9                            -0.4961     -0.5870      0.1000         0.8255             69.6131      0.13
+CsPbI3_ortho_opt     Charge atom:  10                            -0.5023     -0.5870      0.1000         0.7176             70.3307      0.11
+CsPbI3_ortho_opt     Charge atom:  11                            -0.5036     -0.5870      0.1000         0.6958             71.0265      0.11
+CsPbI3_ortho_opt     Charge atom:  12                            -0.4948     -0.5870      0.1000         0.8494             71.8759      0.13
+CsPbI3_ortho_opt     Charge atom:  13                            -0.5008     -0.5870      0.1000         0.7430             72.6189      0.12
+CsPbI3_ortho_opt     Charge atom:  14                            -0.4974     -0.5870      0.1000         0.8034             73.4223      0.13
+CsPbI3_ortho_opt     Charge atom:  15                            -0.4967     -0.5870      0.1000         0.8155             74.2378      0.13
+CsPbI3_ortho_opt     Charge atom:  16                            -0.5015     -0.5870      0.1000         0.7313             74.9691      0.11
+CsPbI3_ortho_opt     Charge atom:  17                            -0.4979     -0.5860      0.1000         0.7768             75.7459      0.12
+CsPbI3_ortho_opt     Charge atom:  18                            -0.5085     -0.5860      0.1000         0.6008             76.3466      0.09
+CsPbI3_ortho_opt     Charge atom:  19                            -0.5084     -0.5860      0.1000         0.6020             76.9486      0.09
+CsPbI3_ortho_opt     Charge atom:  20                            -0.4979     -0.5860      0.1000         0.7756             77.7242      0.12
+Energy -PbI2_Hex_opt/  1 +PbI2_MoS2_opt/  2                       6.2541      5.0301      0.2000        37.4533            115.1776      5.88
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_080/  1                        8.3220      9.2972      2.0000         0.2378            115.4153      0.04
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_084/  1                        4.8339      5.2907      1.0000         0.2087            115.6240      0.03
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_088/  1                        2.5214      2.6667      0.5000         0.0844            115.7084      0.01
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_092/  1                        1.0713      1.0779      0.2000         0.0011            115.7095      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_096/  1                        0.2719      0.2568      0.2000         0.0057            115.7152      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_100/  1                        0.0000      0.0000      0.1000         0.0000            115.7152      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_104/  1                        0.1464      0.1528      0.2000         0.0010            115.7162      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_108/  1                        0.6241      0.6013      0.2000         0.0129            115.7292      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_112/  1                        1.3616      1.2616      0.5000         0.0400            115.7691      0.01
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_116/  1                        2.3035      2.0741      1.0000         0.0526            115.8218      0.01
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_120/  1                        3.4039      2.9947      2.0000         0.0419            115.8636      0.01
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_080/  2                     10.0572      8.8646      2.0000         0.3555            116.2192      0.06
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_084/  2                      6.1366      5.0643      1.0000         1.1499            117.3691      0.18
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_088/  2                      3.3871      2.5642      0.5000         2.7085            120.0776      0.43
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_092/  2                      1.5618      1.0399      0.2000         6.8092            126.8868      1.07
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_096/  2                      0.4802      0.2465      0.2000         1.3654            128.2522      0.21
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_100/  2                      0.0000      0.0000      0.1000         0.0000            128.2522      0.00
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_104/  2                     -0.0765      0.1646      0.2000         1.4531            129.7053      0.23
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_108/  2                      0.1893      0.6412      0.2000         5.1069            134.8121      0.80
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_112/  2                      0.7340      1.3574      0.5000         1.5544            136.3665      0.24
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_116/  2                      1.5063      2.2610      1.0000         0.5695            136.9360      0.09
+Energy -PbI2_MoS2_opt/  2 +PbI2_MoS2_120/  2                      2.4639      3.3134      2.0000         0.1804            137.1165      0.03
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_080/  1                     20.7903     17.8647      5.0000         0.3424            137.4588      0.05
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_084/  1                     11.7629     10.2029      2.0000         0.6084            138.0673      0.10
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_088/  1                      5.3616      5.1906      1.0000         0.0292            138.0965      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_092/  1                      2.7336      2.1185      0.5000         1.5131            139.6096      0.24
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_096/  1                      0.6864      0.5015      0.5000         0.1368            139.7464      0.02
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_100/  1                      0.0000      0.0000      0.1000         0.0000            139.7464      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_104/  1                      0.4569      0.3717      0.5000         0.0291            139.7755      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_108/  1                      1.8740      1.4589      0.5000         0.6893            140.4649      0.11
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_112/  1                      4.0637      3.1596      1.0000         0.8174            141.2822      0.13
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_116/  1                      6.8759      5.4078      2.0000         0.5388            141.8210      0.08
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_a_120/  1                     10.1803      8.1241      5.0000         0.1691            141.9902      0.03
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_080/  1                    12.8752      9.7131      2.0000         2.4998            144.4899      0.39
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_084/  1                     7.6480      5.7267      1.0000         3.6916            148.1816      0.58
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_088/  1                     4.0074      2.9946      0.5000         4.1030            152.2846      0.64
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_092/  1                     1.7150      1.2540      0.2000         5.3117            157.5963      0.83
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_096/  1                     0.4526      0.3079      0.2000         0.5236            158.1200      0.08
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_100/  1                     0.0000      0.0000      0.1000         0.0000            158.1200      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_104/  1                     0.2351      0.2068      0.2000         0.0201            158.1401      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_108/  1                     1.0383      0.8316      0.2000         1.0677            159.2078      0.17
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_112/  1                     2.3031      1.7986      0.5000         1.0180            160.2258      0.16
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_116/  1                     3.9352      3.0447      1.0000         0.7930            161.0188      0.12
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_ab_120/  1                     5.8604      4.5224      2.0000         0.4476            161.4663      0.07
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_080/  1                     14.1360     13.6906      2.0000         0.0496            161.5159      0.01
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_084/  1                      6.0517      7.8730      1.0000         3.3172            164.8331      0.52
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_088/  1                      3.0042      3.9315      0.5000         3.4399            168.2730      0.54
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_092/  1                      1.1546      1.5375      0.2000         3.6650            171.9380      0.58
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_096/  1                      0.2324      0.3426      0.2000         0.3032            172.2412      0.05
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_100/  1                      0.0000      0.0000      0.1000         0.0000            172.2412      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_104/  1                      0.2321      0.1952      0.2000         0.0341            172.2753      0.01
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_108/  1                      0.7300      0.6779      0.2000         0.0680            172.3432      0.01
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_112/  1                      1.3285      1.2698      0.5000         0.0138            172.3570      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_116/  1                      1.8990      1.8629      1.0000         0.0013            172.3583      0.00
+Energy -PbI2_Hex_opt/  1 +PbI2_Hex_c_120/  1                      2.3445      2.4023      2.0000         0.0008            172.3591      0.00
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_00/  1                      0.0000      0.0000      0.5000         0.0000            172.3591      0.00
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_01/  1                     -0.4398     -0.0046      2.0000         0.0473            172.4065      0.01
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_02/  1                      0.4376      0.9294      2.0000         0.0605            172.4669      0.01
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_03/  1                     10.0903      5.8437      2.0000         4.5085            176.9755      0.71
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_04/  1                     13.3852      8.0229      2.0000         7.1885            184.1640      1.13
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_05/  1                      7.0468      5.3340      2.0000         0.7334            184.8973      0.12
+Energy -PbI2_ML_PT_00/  1 +PbI2_ML_PT_06/  1                      6.2644      4.8128      0.5000         8.4287            193.3260      1.32
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_080/  1               15.5524     13.7538      5.0000         0.1294            193.4554      0.02
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_084/  1                8.1766      7.7043      2.0000         0.0558            193.5112      0.01
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_088/  1                3.1005      3.8937      1.0000         0.6292            194.1404      0.10
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_092/  1                1.5430      1.5899      0.5000         0.0088            194.1492      0.00
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_096/  1                0.1741      0.3735      0.5000         0.1591            194.3083      0.02
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_100/  1                0.0000      0.0000      0.1000         0.0000            194.3083      0.00
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_104/  1                0.8282      0.3216      0.5000         1.0266            195.3349      0.16
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_108/  1                2.5084      1.2540      0.5000         6.2939            201.6288      0.99
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_112/  1                4.8770      2.7506      1.0000         4.5216            206.1504      0.71
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_116/  1                7.7960      4.7828      2.0000         2.2699            208.4203      0.36
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_a_120/  1               11.1406      7.2992      5.0000         0.5902            209.0105      0.09
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_080/  1               8.5871      7.1632      2.0000         0.5069            209.5174      0.08
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_084/  1               4.6997      4.2341      1.0000         0.2168            209.7343      0.03
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_088/  1               2.0915      2.2148      0.5000         0.0608            209.7950      0.01
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_092/  1               0.5921      0.9226      0.2000         2.7294            212.5244      0.43
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_096/  1              -0.0395      0.2197      0.2000         1.6800            214.2044      0.26
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_100/  1               0.0000      0.0000      0.1000         0.0000            214.2044      0.00
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_104/  1               0.6200      0.1804      0.2000         4.8322            219.0366      0.76
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_108/  1               1.7209      0.6945      0.2000        26.3349            245.3715      4.14
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_112/  1               3.2103      1.4920      0.5000        11.8099            257.1815      1.85
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_116/  1               5.0073      2.5296      1.0000         6.1392            263.3207      0.96
+Energy -PbI2_Hex_ML_opt/  1 +PbI2_Hex_ML_ab_120/  1               7.0449      3.7724      2.0000         2.6772            265.9979      0.42
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_080/  1             18.1232     16.1354      5.0000         0.1580            266.1560      0.02
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_084/  1             10.1520      8.7500      2.0000         0.4914            266.6473      0.08
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_088/  1              4.2812      4.2905      1.0000         0.0001            266.6474      0.00
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_092/  1              0.6576      1.7114      0.5000         4.4428            271.0902      0.70
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_096/  1              0.5628      0.3975      0.5000         0.1093            271.1995      0.02
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_100/  1              0.0000      0.0000      0.1000         0.0000            271.1995      0.00
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_104/  1              0.4043      0.3199      0.5000         0.0285            271.2279      0.00
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_108/  1              1.6430      1.2289      0.5000         0.6861            271.9140      0.11
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_112/  1              3.5900      2.6023      1.0000         0.9755            272.8895      0.15
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_116/  1              6.1163      4.2608      2.0000         0.8606            273.7502      0.14
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_a_120/  1              9.1183      5.9483      5.0000         0.4020            274.1521      0.06
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_080/  1            12.7835      8.6467      2.0000         4.2783            278.4304      0.67
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_084/  1             7.7035      5.1665      1.0000         6.4365            284.8669      1.01
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_088/  1             4.0851      2.7376      0.5000         7.2627            292.1297      1.14
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_092/  1             1.7107      1.1585      0.2000         7.6226            299.7523      1.20
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_096/  1             0.3819      0.2818      0.2000         0.2504            300.0027      0.04
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_100/  1             0.0000      0.0000      0.1000         0.0000            300.0027      0.00
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_104/  1             0.2707      0.2314      0.2000         0.0385            300.0412      0.01
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_108/  1             1.1172      0.9149      0.2000         1.0233            301.0645      0.16
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_112/  1             2.4493      1.9990      0.5000         0.8113            301.8758      0.13
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_116/  1             4.1836      3.4384      1.0000         0.5553            302.4310      0.09
+Energy -PbI2_MoS2_ML_opt/  1 +PbI2_MoS2_ML_ab_120/  1             6.2470      5.1870      2.0000         0.2809            302.7119      0.04
+Energy -PbI2_Hex_441_pris/  1 +PbI2_Hex_441_VI/  1               70.6776     91.4281      5.0000        17.2233            319.9352      2.71
+Energy -PbI2_Hex_441_pris/  1 +PbI2_Hex_441_VPb/  1             206.3167    173.9468     10.0000        10.4781            330.4133      1.65
+Energy -PbI2_MoS2_441_pris/  1 +PbI2_MoS2_441_VI/  1             66.8777     90.6708      5.0000        22.6444            353.0578      3.56
+Energy -PbI2_MoS2_441_pris/  1 +PbI2_MoS2_441_VPb/  1           204.2023    171.3342     10.0000        10.8031            363.8609      1.70
+Energy -PbI2_441_VI_d_0/  1 +PbI2_441_VI_d_3/  1                 16.9201     23.9073      1.0000        48.8214            412.6823      7.67
+Energy -PbI2_441_VI_p_0/  1 +PbI2_441_VI_p_3/  1                 11.0619     17.0928      1.0000        36.3722            449.0545      5.71
+Energy -PbI2_441_VPb_p_0/  1 +PbI2_441_VPb_p_3/  1               14.0812      9.4043      1.0000        21.8736            470.9281      3.44
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_080/  1                        5.6705      5.2417      2.0000         0.0460            470.9740      0.01
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_084/  1                        3.2466      3.0472      1.0000         0.0398            471.0138      0.01
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_088/  1                        1.2465      1.5660      0.5000         0.4082            471.4220      0.06
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_092/  1                        0.3770      0.6405      0.2000         1.7353            473.1573      0.27
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_096/  1                        0.0615      0.1496      0.2000         0.1942            473.3515      0.03
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_100/  1                        0.0000      0.0000      0.1000         0.0000            473.3515      0.00
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_104/  1                        0.1341      0.1186      0.2000         0.0060            473.3575      0.00
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_108/  1                        0.4152      0.4478      0.2000         0.0266            473.3841      0.00
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_112/  1                        0.8067      0.9419      0.5000         0.0732            473.4572      0.01
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_116/  1                        1.2800      1.5647      1.0000         0.0810            473.5383      0.01
+Energy -CsI_CsCl_opt/  1 +CsI_CsCl_120/  1                        1.8006      2.2877      2.0000         0.0593            473.5976      0.01
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_cubic_opt/  1                3.5391      3.4474      0.2000         0.2104            473.8080      0.03
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_tetra_opt/  2                1.0449      0.9414      0.2000         0.2676            474.0756      0.04
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_opt/  4                0.0000      0.0000      0.2000         0.0000            474.0756      0.00
+Energy +CsPbI3_cubic_opt/  1 -PbI2_Hex_opt/  1 -CsI_CsCl_opt      2.3613      2.4224      0.1000         0.3744            474.4500      0.06
+Energy +CsPbI3_tetra_opt/  2 -PbI2_Hex_opt/  1 -CsI_CsCl_opt     -0.1330     -0.0835      0.1000         0.2447            474.6948      0.04
+Energy +CsPbI3_ortho_opt/  4 -PbI2_Hex_opt/  1 -CsI_CsCl_opt     -1.1778     -1.0249      0.1000         2.3388            477.0336      0.37
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_080/  1               17.9660     18.4752      2.0000         0.0648            477.0984      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_084/  1               10.5429     10.8065      1.0000         0.0695            477.1679      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_088/  1                5.4954      5.5781      0.5000         0.0274            477.1953      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_092/  1                2.2972      2.2843      0.2000         0.0041            477.1994      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_096/  1                0.5590      0.5295      0.2000         0.0218            477.2213      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_100/  1                0.0000      0.0000      0.1000         0.0000            477.2213      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_104/  1                0.4155      0.4472      0.2000         0.0251            477.2464      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_108/  1                1.6470      1.6753      0.2000         0.0200            477.2664      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_112/  1                3.5453      3.5250      0.5000         0.0016            477.2681      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_116/  1                5.9570      5.8682      1.0000         0.0079            477.2760      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_cubic_120/  1                8.7239      8.5969      2.0000         0.0040            477.2800      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_080/  1               29.0617     28.3749      5.0000         0.0189            477.2989      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_084/  1               16.6426     16.1713      2.0000         0.0555            477.3544      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_088/  1                8.4619      8.1394      1.0000         0.1041            477.4585      0.02
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_092/  1                3.4423      3.2524      0.5000         0.1443            477.6028      0.02
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_096/  1                0.8081      0.7353      0.5000         0.0212            477.6240      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_100/  1                0.0000      0.0000      0.1000         0.0000            477.6240      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_104/  1                0.6037      0.5985      0.5000         0.0001            477.6242      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_108/  1                2.3030      2.1969      0.5000         0.0450            477.6691      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_112/  1                4.8295      4.5346      1.0000         0.0869            477.7561      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_116/  1                7.9355      7.4145      2.0000         0.0678            477.8239      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_pla_120/  1               11.3970     10.6875      5.0000         0.0201            477.8440      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_080/  1               74.4081     68.0908     10.0000         0.3991            478.2431      0.06
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_084/  1               40.0350     37.5723      5.0000         0.2426            478.4857      0.04
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_088/  1               19.1394     17.7694      2.0000         0.4692            478.9549      0.07
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_092/  1                7.3211      6.6471      1.0000         0.4544            479.4093      0.07
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_096/  1                1.6043      1.4072      1.0000         0.0389            479.4482      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_100/  1                0.0000      0.0000      0.1000         0.0000            479.4482      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_104/  1                1.1311      1.0163      1.0000         0.0132            479.4613      0.00
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_108/  1                3.9934      3.5051      1.0000         0.2385            479.6998      0.04
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_112/  1                7.8307      6.8229      2.0000         0.2539            479.9537      0.04
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_116/  1               12.0692     10.5423      5.0000         0.0933            480.0470      0.01
+Energy -CsPbI3_cubic_opt/  1 +CsPbI3_c_uni_120/  1               16.2887     14.3814     10.0000         0.0364            480.0834      0.01
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_080/  2               14.9381     18.5235      2.0000         3.2139            483.2972      0.50
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_084/  2                8.1786     10.8168      1.0000         6.9597            490.2570      1.09
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_088/  2                3.7777      5.5811      0.5000        13.0090            503.2660      2.04
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_092/  2                1.6716      2.2919      0.2000         9.6181            512.8841      1.51
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_096/  2                0.4400      0.5391      0.2000         0.2453            513.1294      0.04
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_100/  2                0.0000      0.0000      0.1000         0.0000            513.1294      0.00
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_104/  2                0.4101      0.4162      0.2000         0.0009            513.1303      0.00
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_108/  2                1.4679      1.5856      0.2000         0.3460            513.4763      0.05
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_112/  2                3.0032      3.3431      0.5000         0.4623            513.9386      0.07
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_116/  2                5.0194      5.5614      1.0000         0.2937            514.2323      0.05
+Energy -CsPbI3_tetra_opt/  2 +CsPbI3_tetra_120/  2                7.3702      8.1290      2.0000         0.1439            514.3763      0.02
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_080/  4               15.9272     14.6782      2.0000         0.3900            514.7663      0.06
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_084/  4                9.4107      8.6441      1.0000         0.5877            515.3540      0.09
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_088/  4                4.8357      4.5148      0.5000         0.4119            515.7659      0.06
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_092/  4                2.0536      1.8798      0.2000         0.7552            516.5211      0.12
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_096/  4                0.4614      0.4461      0.2000         0.0059            516.5269      0.00
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_100/  4                0.0000      0.0000      0.1000         0.0000            516.5269      0.00
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_104/  4                0.1830      0.3674      0.2000         0.8496            517.3766      0.13
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_108/  4                1.1241      1.4035      0.2000         1.9508            519.3274      0.31
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_112/  4                2.4037      2.9897      0.5000         1.3735            520.7009      0.22
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_116/  4                4.1129      5.0167      1.0000         0.8170            521.5179      0.13
+Energy -CsPbI3_ortho_opt/  4 +CsPbI3_ortho_120/  4                6.1266      7.3853      2.0000         0.3960            521.9139      0.06
+Energy -CsPbI3_o_222_pris/  1 +CsPbI3_o_222_VI_e/  1             67.3579     99.1321      5.0000        40.3839            562.2978      6.34
+Energy -CsPbI3_o_222_pris/  1 +CsPbI3_o_222_VI_a/  1             65.3740     98.6985      5.0000        44.4209            606.7187      6.98
+Energy -CsPbI3_o_222_pris/  1 +CsPbI3_o_222_VCs/  1             133.3632    118.4305      7.5000         3.9642            610.6829      0.62
+Energy -CsPbI3_o_222_pris/  1 +CsPbI3_o_222_VPb/  1             185.2671    159.9225     10.0000         6.4235            617.1064      1.01
+Energy -CsPbI3_221_VI_ee_0/  1 +CsPbI3_221_VI_ee_3/  1           14.6776     12.6651      1.0000         4.0501            621.1565      0.64
+Energy -CsPbI3_221_VI_ae_0/  1 +CsPbI3_221_VI_ae_3/  1            9.8453     11.4982      1.0000         2.7322            623.8887      0.43
+Energy -CsPbI3_221_VI_aa_0/  1 +CsPbI3_221_VI_aa_3/  1           16.1902     19.4520      1.0000        10.6395            634.5282      1.67
+Energy -CsPbI3_221_VCs_p_0/  1 +CsPbI3_221_VCs_p_3/  1           18.0733     19.5442      1.0000         2.1635            636.6917      0.34

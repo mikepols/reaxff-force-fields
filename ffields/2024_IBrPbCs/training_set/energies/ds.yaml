@@ -1,0 +1,3268 @@
+---
+dtype: DataSet
+version: '2022.104'
+---
+Expression: energy('CsI_CsCl_EOS_abc_080')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 5.241166304943218
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_084')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 3.046765950584922
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_088')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.566166391644665
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_092')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.6407565288062084
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_096')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.14989698172593074
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_100')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_104')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.11885656984584879
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_108')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.44823928406234903
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_112')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 0.9422530520699102
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_116')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.5649635537767947
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_120')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.288076887848611
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_080')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 4.993988830580384
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_084')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.8796614230647837
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_088')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.462271847321073
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_092')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.583579932850173
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_096')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.12741745013490835
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_100')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_104')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.1279355628610653
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_108')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.45784232789327317
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_112')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 0.9445258990840334
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_116')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.553335679060347
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_120')/4.000 - energy('CsI_NaCl_EOS_abc_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.2565637348586347
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_080')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 9.29802342626028
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_084')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.292023562938637
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_088')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 2.668160970796985
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_092')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.0784841260336193
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_096')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.25731021884225935
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_100')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 160.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_104')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.15330832769593958
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_108')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.6022274365348017
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_112')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 16.0
+Sigma: 1.0
+ReferenceValue: 1.2630563222610645
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_116')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 2.0748987811542445
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_120')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.9944293588237296
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_080')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 9.71363250468083
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_084')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 5.726546206046466
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_088')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.9946408239933735
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_092')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.2549786756284715
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_096')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.3070677195922921
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_100')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_104')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.20722618081829897
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_108')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.832560972198548
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_112')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.7984095707869114
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_116')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 3.0442857892987005
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_ab_120')/1.000 - energy('PbI2_Hex_EOS_ab_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 4.521913305593062
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_080')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 17.864694678627927
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_084')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 10.202887729857972
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_088')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.19080507920508
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_092')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 2.118794292141762
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_096')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.5017593428361726
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_100')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_104')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.37204102712867365
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_108')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.4588649981567878
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_112')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 3.159796505113718
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_116')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 5.407900941370529
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_a_120')/1.000 - energy('PbI2_Hex_EOS_a_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 8.124296033516597
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_080')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 13.690846815913822
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_085')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 6.724493003573926
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_090')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.5627378584505482
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_095')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.5489591988790472
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_100')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 160.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_105')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.29813475745892226
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_110')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.9693505724881992
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_115')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 16.0
+Sigma: 1.0
+ReferenceValue: 1.7191643244459816
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_120')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 2.4021066556599076
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_125')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.9739714296423574
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_c_130')/1.000 - energy('PbI2_Hex_EOS_c_100')/1.000
+Weight: 1.6
+Sigma: 1.0
+ReferenceValue: 3.427509103822062
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_080')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 8.86529362498596
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_084')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 5.064075525036357
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_088')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.5640121839984036
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_092')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.0416449102759373
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_096')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.24794683169346388
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_100')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_104')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.16408474955235763
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_108')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.6421697941193105
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_112')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.3578057474653886
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_116')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.260522884002513
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_120')/2.000 - energy('PbI2_MoS2_EOS_abc_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 3.313638684355622
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_080')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 7.163373166687765
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_084')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.233858541623863
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_088')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.216349608787262
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_092')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.923491225748591
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_096')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.21875322331508404
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_100')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_104')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.18058871821180877
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_108')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.6953489027804861
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_112')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.4920786355097804
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_116')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.5291089007370844
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_ab_120')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 3.7737306257670116
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_080')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 13.753825847782766
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_084')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 7.704452808989452
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_088')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 3.8941813708775608
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_092')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.5905962685706887
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_096')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.3741824290536881
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_100')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_104')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.32197682117074766
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_108')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.2537421693693405
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_112')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.7509215661520385
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_116')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.782807593864434
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Hex_EOS_a_120')/1.000 - energy('PbI2_ML_Hex_EOS_a_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 7.29952998570639
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_080')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 4.323459585536165
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_084')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.5840841950103415
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_088')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.3688402167862042
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_092')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.5790492858255414
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_096')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.14201154471044128
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_100')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_104')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.11597469391892302
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_108')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.4572970037276222
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_112')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 0.9996754157517038
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_116')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.7196720022769052
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_120')/2.000 - energy('PbI2_ML_MoS2_EOS_ab_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.593014505181373
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_080')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 8.068109023066784
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_084')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.374809186102095
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_088')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.1454659996530068
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_092')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8555898058987083
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_096')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.19893095797241217
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_100')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_104')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.1602487437024769
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_108')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.614818953647786
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_112')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.300972811235699
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_116')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.1304450544460796
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_a_120')/2.000 - energy('PbI2_ML_MoS2_EOS_a_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.9742061859593476
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_080')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 8.060507922533493
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_084')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.804138710466574
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_088')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.5313290544128653
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_092')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.0593441068244014
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_096')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.2524743078936024
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_100')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_104')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.2093923728259281
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_108')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8045293845287769
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_112')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.7113544107053649
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_116')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.709202393810606
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_120')/2.000 - energy('PbI2_ML_Octa_EOS_ab_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 3.937140162651258
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_080')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 14.644914014227723
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_084')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 9.529821998153817
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_088')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 4.887841328960104
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_092')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.9413524154838182
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_096')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.4429405480368561
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_100')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_104')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.3600345559648095
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_108')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.3572400723714666
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_112')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 2.85386128873636
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_116')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.571725113919343
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_a_120')/2.000 - energy('PbI2_ML_Octa_EOS_a_100')/2.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 6.684703883290624
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -136.27731796029008
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -218.35360372461994
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsI_NaCl_EOS_abc_100')/4.000 - energy('CsI_CsCl_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.644885691795595
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_EOS_abc_100')/2.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 5.0302452487917675
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_MoS2_EOS_ab_100')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 4.81360794550287
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_Octa_EOS_ab_100')/1.000 - energy('PbI2_ML_Hex_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 9.471203945372134
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_00')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 0.0031217055631128916
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_01')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_02')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 0.9336198769818305
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_03')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 5.847723358228221
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_04')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 8.026626797793842
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_05')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 5.338229970834441
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_ML_PT_06')/1.000 - energy('PbI2_ML_PT_01')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.8168742406639815
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_2.40')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 30.807730074180235
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_2.50')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 16.327714232367107
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_2.60')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 7.3617185569022565
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_2.70')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 2.358094405554879
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_2.80')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.18197178709107725
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_3.00')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.2029848785243178
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_3.10')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 3.3416251304321873
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_3.20')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 6.099224290904593
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_3.30')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 9.226955806311125
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_Pb-I_bond_3.40')/1.000 - energy('PbI2_Molecule_Pb-I_bond_2.90')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 12.555169962465635
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_70.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 19.50761171917992
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_75.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 12.25950967057742
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_80.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 7.2956562299963466
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_85.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 3.9689330044335684
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_90.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.8327043794202087
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_95.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 0.584802408768916
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_100.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.02141860483505032
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_110.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.4167924269974521
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_115.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 1.1939708945513146
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_120.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.2682071169368934
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_125.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 3.5843396796029783
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_130.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 5.089885864104768
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_135.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 6.737667068043227
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_140.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 8.475644510901928
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_145.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.05
+Sigma: 1.0
+ReferenceValue: 10.25220767159879
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Molecule_I-Pb-I_angle_150.00')/1.000 - energy('PbI2_Molecule_I-Pb-I_angle_105.00')/1.000
+Weight: 0.02
+Sigma: 1.0
+ReferenceValue: 12.008145892352273
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_DFE_VI')/1.000 - energy('PbI2_Hex_DFE_Pristine')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 91.36386368751039
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_DFE_VPb')/1.000 - energy('PbI2_Hex_DFE_Pristine')/1.000
+Weight: 0.25
+Sigma: 1.0
+ReferenceValue: 173.88817219741375
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_DFE_VI')/1.000 - energy('PbI2_MoS2_DFE_Pristine')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 90.6689559328981
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_MoS2_DFE_VPb')/1.000 - energy('PbI2_MoS2_DFE_Pristine')/1.000
+Weight: 0.25
+Sigma: 1.0
+ReferenceValue: 171.33088792652828
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_DMB_VI_d_03')/1.000 - energy('PbI2_Hex_DMB_VI_d_00')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 23.906426606848072
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_DMB_VI_p_03')/1.000 - energy('PbI2_Hex_DMB_VI_p_00')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 17.09170600443645
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbI2_Hex_DMB_VPb_p_02')/1.000 - energy('PbI2_Hex_DMB_VPb_p_00')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 11.843643213819314
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_080')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 18.812682426268747
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_084')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 11.026045766078292
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_088')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 5.717808105492518
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_092')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.362697803713247
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_096')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.562245760726218
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_100')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_104')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.4241387116752695
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_108')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.6355108249067833
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_112')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 3.4721995116904174
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_116')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.803094522006833
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_120')/1.000 - energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 8.526050338336333
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_080')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 0.02
+Sigma: 1.0
+ReferenceValue: 28.766759591834667
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_084')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 16.47018312064003
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_088')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 0.4
+Sigma: 1.0
+ReferenceValue: 8.311195499637154
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_092')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 3.3433455050950203
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_096')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7707628706825951
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_100')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_104')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.5778492152227083
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_108')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.16184924637534
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_112')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 0.4
+Sigma: 1.0
+ReferenceValue: 4.48929785869806
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_116')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 7.3658361925672216
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_ab_120')/1.000 - energy('CsPbI3_C_EOS_ab_100')/1.000
+Weight: 0.02
+Sigma: 1.0
+ReferenceValue: 10.633078680766776
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_080')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 0.02
+Sigma: 1.0
+ReferenceValue: 66.60174984397455
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_084')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 37.761716302530225
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_088')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 0.4
+Sigma: 1.0
+ReferenceValue: 18.08388282376408
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_092')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 6.783526837926836
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_096')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.451304599479978
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_100')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_104')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9989347111444155
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_108')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 3.4826680753119135
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_112')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 0.4
+Sigma: 1.0
+ReferenceValue: 6.80013504023586
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_116')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 10.521607480084329
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_a_120')/1.000 - energy('CsPbI3_C_EOS_a_100')/1.000
+Weight: 0.02
+Sigma: 1.0
+ReferenceValue: 14.364066592038135
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_080')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 18.611154390062485
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_084')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 10.873758674482431
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_088')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 5.6148688441190115
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_092')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.30959237348362
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_096')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.5466162478173856
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_100')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_104')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.4106425295017582
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_108')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.5727477550131246
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_112')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 3.328315912184844
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_116')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.544869606768372
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_120')/2.000 - energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 8.108038582050538
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_080')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 14.673439789311358
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_084')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 8.643261769119826
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_088')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 4.514464865847402
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_092')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.88038691483479
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_096')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.447180805187019
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_100')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_104')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.36899853452706094
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_108')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.402782855521483
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_112')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 2.987537369955249
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_116')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.012342081749776
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_120')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 7.381387472587545
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_080')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 14.83947817032601
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_084')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 8.575713925029307
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_088')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 4.374064445899981
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_092')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.7742987364586773
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_096')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.41225440373241196
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_100')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_104')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.30466971148672756
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_108')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.1556319584332484
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_112')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 2.4027693003326838
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_116')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 3.949665092449355
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_120')/4.000 - energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 5.696183312888716
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_080')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 20.6293623455768
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_084')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 12.084960831519798
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_088')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 6.315867233767977
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_092')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 2.653533092527472
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_096')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.6390840053502589
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_100')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_104')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.5257080615545127
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_108')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 2.064651714038149
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_112')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.489020670983923
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_116')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 7.680072915788093
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_a_120')/4.000 - energy('CsPbI3_1D_EOS_a_100')/4.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 11.502507579097728
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_080')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 19.211475180989243
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_084')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 11.623316166167863
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_088')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 6.10351757704299
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_092')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 2.49983994203789
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_096')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.56810936472668
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_100')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_104')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.394020836775726
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_108')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 1.3817452419669656
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_112')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.769076496660698
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_116')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 4.481945177852886
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_b_120')/4.000 - energy('CsPbI3_1D_EOS_b_100')/4.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 6.450458760850724
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_084')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 14.935240241578526
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_088')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 7.620416331499915
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_092')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 3.0203875155158615
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_096')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.6734045487166589
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_100')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_104')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.48164611110549715
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_108')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 1.7071009513948905
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_112')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 3.3756688325748874
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_116')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 5.241830679156661
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_c_120')/4.000 - energy('CsPbI3_1D_EOS_c_100')/4.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 7.044564101558342
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -352.09378218104587
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_100')/2.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -354.683164996779
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -355.63871118295054
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_100')/4.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -358.698662690209
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_100')/1.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 3.5449290019047024
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_100')/2.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.9555461861715672
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_100')/4.000 - energy('CsPbI3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: -3.0599515072584333
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_EOS_abc_100')/1.000 - energy('CsI_CsCl_EOS_abc_100')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: 2.537139503864149
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_T_EOS_abc_100')/2.000 - energy('CsI_CsCl_EOS_abc_100')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -0.05224331186898652
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_EOS_abc_100')/4.000 - energy('CsI_CsCl_EOS_abc_100')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -1.0077894980405537
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_1D_EOS_abc_100')/4.000 - energy('CsI_CsCl_EOS_abc_100')/1.000 - energy('PbI2_Hex_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -4.067741005298987
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_DFE_VI_a')/1.000 - energy('CsPbI3_O_DFE_Pristine')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 98.69652221716984
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_DFE_VI_e')/1.000 - energy('CsPbI3_O_DFE_Pristine')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 99.13011413680411
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_DFE_VCs')/1.000 - energy('CsPbI3_O_DFE_Pristine')/1.000
+Weight: 0.4
+Sigma: 1.0
+ReferenceValue: 118.4281273452226
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_O_DFE_VPb')/1.000 - energy('CsPbI3_O_DFE_Pristine')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 159.91927797031346
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_00')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.17932776777570159
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_01')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.10565325654763082
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_02')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.8974682041615596
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_03')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 4.789342259645559
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_04')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.8037021957782988
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_05')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_VI_06')/1.000 - energy('CsPbI3_C_DMB_VI_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.09785810156511641
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_00')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.1388348397664188
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_01')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.66660232301394
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_02')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.0344397521288187
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_03')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 3.924657491315994
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_04')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.8588048995387312
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_05')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.5286661525852846
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_DMB_II_06')/1.000 - energy('CsPbI3_C_DMB_II_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_100_CsI')/1.000 - energy('CsPbI3_C_EOS_abc_100')/0.143 - energy('PbI2_Hex_EOS_abc_100')/-1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 7.595597134974566
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_C_100_PbI2')/1.000 - energy('CsPbI3_C_EOS_abc_100')/0.143 - energy('CsI_CsCl_EOS_abc_100')/-1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 24.56392854818719
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_02_TS1')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 16.26384315644869
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_03_MS1')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 9.105136059818296
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_04_TS2')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 13.81659572053637
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_05_MS2')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: -4.322740327232879
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_06_MS2')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: -4.05128246590724
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_07_TS3')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 12.862604622010847
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_08_MS3')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 3.89436331855353
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_09_TS4')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 4.899989507154211
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbI3_PT_Gamma_Delta_10_Delta')/1.000 - energy('CsPbI3_PT_Gamma_Delta_01_Gamma')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: -11.636671621384183
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_080')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 5.170997918517383
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_084')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.983577990205953
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_088')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.514214449723138
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_092')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.604138233040392
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_096')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.13101454877027416
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_100')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_104')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.1379066529414736
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_108')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.485925974736492
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_112')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 0.9975282486911765
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_116')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.6386103923496609
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_CsCl_EOS_abc_120')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.3795732777034324
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_080')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 5.14344933389866
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_084')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.9673300512134557
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_088')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.508293597927312
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_092')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.6047956890912517
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_096')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.13341388285696693
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_100')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_104')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.12976524391036956
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_108')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.46433087258044464
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_112')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 0.9611097148699612
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_116')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.5841592065434302
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_120')/4.000 - energy('CsBr_NaCl_EOS_abc_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.3041997234010467
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_080')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 11.406486365005126
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_084')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 6.481288284074758
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_088')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 3.2540942896040326
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_092')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 1.3029111074375817
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_096')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.30148505064409736
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_100')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_104')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.2179241968321288
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_108')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8196196843156289
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_112')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 1.6915217681188397
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_116')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 2.719530922291145
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_PbCl2_EOS_abc_120')/4.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 3.7407892757630377
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsBr_NaCl_EOS_abc_100')/4.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.04484485584805316
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.20')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 36.770941877048365
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.30')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 18.924586943444584
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.40')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 8.146062907142891
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.50')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 2.3386661936639372
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.70')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.052572483749402536
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.80')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 1.7235418246570837
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_2.90')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 4.458605019972605
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_3.00')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 7.860332953824824
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_3.10')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 11.643523191450686
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Pb-Br_bond_3.20')/1.000 - energy('PbBr2_Molecule_Pb-Br_bond_2.60')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 15.603976087957882
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_70.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 17.015472349403613
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_75.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 10.568116093576531
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_80.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 6.209870468612106
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_85.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 3.3164487280956516
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_90.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 1.4783094447948866
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_95.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.43012688960058415
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_105.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.07028996378804173
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_110.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 0.5597211015275234
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_115.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 1.401146638908038
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_120.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 2.538006531089804
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_125.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 3.921375283938976
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_130.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.2
+Sigma: 1.0
+ReferenceValue: 5.497663244213265
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_135.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.1
+Sigma: 1.0
+ReferenceValue: 7.217954908304937
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_140.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.05
+Sigma: 1.0
+ReferenceValue: 9.032434432280185
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_145.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.02
+Sigma: 1.0
+ReferenceValue: 10.883921984359395
+Unit: kcal/mol, 627.51
+---
+Expression: energy('PbBr2_Molecule_Br-Pb-Br_angle_150.00')/1.000 - energy('PbBr2_Molecule_Br-Pb-Br_angle_100.00')/1.000
+Weight: 0.01
+Sigma: 1.0
+ReferenceValue: 12.710760782282717
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_080')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 19.178109228756632
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_084')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 11.242110591413343
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_088')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 5.8299971808456394
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_092')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.412066042515232
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_096')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.5768866682018613
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_100')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_104')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.4329773561920212
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_108')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.662157742335393
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_112')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 3.527017878975697
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_116')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.9008103400243215
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_120')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 8.67406096773111
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_080')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 28.773164426754555
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_084')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 16.484497490841704
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_088')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 8.327514061539343
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_092')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 3.3525035381177193
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_096')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.7766493046195875
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_100')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_104')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.579052053090517
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_108')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 2.167333504460751
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_112')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 4.510190248489662
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_116')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 7.410523141354286
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_ab_120')/1.000 - energy('CsPbBr3_C_EOS_ab_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 10.714053237148182
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_080')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 68.26361241137306
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_084')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 37.50689108768797
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_088')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 17.780096158079775
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_092')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 6.679516414379945
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_096')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.4311775890754972
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_100')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_104')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.9812710278305565
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_108')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 3.4313383068120182
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_112')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 6.711098287784931
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_116')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 10.395394366752477
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_a_120')/1.000 - energy('CsPbBr3_C_EOS_a_100')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 14.20944035437002
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_080')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 18.398852007448465
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_084')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 10.710092819674514
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_088')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 5.499144011172095
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_092')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.240957282491689
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_096')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.5162209545981848
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_100')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_104')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.4339676911659585
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_108')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.61791021217512
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_112')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 3.3912794934907176
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_116')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.604950389725586
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_120')/2.000 - energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 8.188556885609575
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_080')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 15.067893011248533
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_084')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 9.005708976634338
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_088')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 4.756151971081175
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_092')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.9942885236842112
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_096')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.474767324397267
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_100')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_104')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 40.0
+Sigma: 1.0
+ReferenceValue: 0.39431139960419176
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_108')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.492489977926724
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_112')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 8.0
+Sigma: 1.0
+ReferenceValue: 3.167795342344205
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_116')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 4.0
+Sigma: 1.0
+ReferenceValue: 5.29176418949303
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_120')/4.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 2.0
+Sigma: 1.0
+ReferenceValue: 7.7515779488763865
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_100')/1.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -390.74544792045975
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_100')/2.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -392.69168225267344
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -393.1792375700011
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_100')/1.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 2.4337896495412927
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_100')/2.000 - energy('CsPbBr3_O_EOS_abc_100')/4.000
+Weight: 80.0
+Sigma: 1.0
+ReferenceValue: 0.4875553173276195
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_EOS_abc_100')/1.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -1.5233019751388226
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_T_EOS_abc_100')/2.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -3.469536307352496
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_EOS_abc_100')/4.000 - energy('CsBr_CsCl_EOS_abc_100')/1.000 - energy('PbBr2_PbCl2_EOS_abc_100')/4.000
+Weight: 0.0001
+Sigma: 1.0
+ReferenceValue: -3.9570916246801153
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_DFE_VBr_a')/1.000 - energy('CsPbBr3_O_DFE_Pristine')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 112.03519927494919
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_DFE_VBr_e')/1.000 - energy('CsPbBr3_O_DFE_Pristine')/1.000
+Weight: 0.5
+Sigma: 1.0
+ReferenceValue: 113.43168735198834
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_DFE_VCs')/1.000 - energy('CsPbBr3_O_DFE_Pristine')/1.000
+Weight: 0.75
+Sigma: 1.0
+ReferenceValue: 122.72536063761434
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_O_DFE_VPb')/1.000 - energy('CsPbBr3_O_DFE_Pristine')/1.000
+Weight: 1.0
+Sigma: 1.0
+ReferenceValue: 170.04411683474723
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_00')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.431082702064527
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_01')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.05344395898639907
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_02')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.4310973383966512
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_03')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 4.496604360812031
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_04')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 1.2931570170514228
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_05')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_VBr_06')/1.000 - energy('CsPbBr3_C_DMB_VBr_05')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.44891518855292023
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_00')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.09581770481013634
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_01')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.7160293661871853
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_02')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.3015949775340925
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_03')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 4.615770172530288
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_04')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 2.1968537654229467
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_05')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.5475160701629659
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_DMB_IBr_06')/1.000 - energy('CsPbBr3_C_DMB_IBr_06')/1.000
+Weight: 20.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_100_CsBr')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/0.143 - energy('PbBr2_PbCl2_EOS_abc_100')/-4.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 13.13575449295031
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBr3_C_100_PbBr2')/1.000 - energy('CsPbBr3_C_EOS_abc_100')/0.143 - energy('CsBr_CsCl_EOS_abc_100')/-1.000
+Weight: 5.0
+Sigma: 1.0
+ReferenceValue: 23.504985925398444
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_01_00001')/4.000 - energy('CsPbBrI3_O_01_00002')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.15501970816500496
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_01_00002')/4.000 - energy('CsPbBrI3_O_01_00002')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00001')/4.000 - energy('CsPbBrI3_O_02_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.42992500520885335
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00003')/4.000 - energy('CsPbBrI3_O_02_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.5415353762619028
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00008')/4.000 - energy('CsPbBrI3_O_02_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.3826153233349711
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00010')/4.000 - energy('CsPbBrI3_O_02_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.41895602782711266
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00011')/4.000 - energy('CsPbBrI3_O_02_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.29723430094728
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00012')/4.000 - energy('CsPbBrI3_O_02_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00005')/4.000 - energy('CsPbBrI3_O_03_00030')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.5304162171007701
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00006')/4.000 - energy('CsPbBrI3_O_03_00030')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.45692492188333245
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00009')/4.000 - energy('CsPbBrI3_O_03_00030')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.3627869469486901
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00011')/4.000 - energy('CsPbBrI3_O_03_00030')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.5091116777732294
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00024')/4.000 - energy('CsPbBrI3_O_03_00030')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.25654287930903236
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00030')/4.000 - energy('CsPbBrI3_O_03_00030')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00010')/4.000 - energy('CsPbBrI3_O_04_00059')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.33063732300106097
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00025')/4.000 - energy('CsPbBrI3_O_04_00059')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.07413745160275133
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00038')/4.000 - energy('CsPbBrI3_O_04_00059')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.5316958465733431
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00046')/4.000 - energy('CsPbBrI3_O_04_00059')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.11854888456494421
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00049')/4.000 - energy('CsPbBrI3_O_04_00059')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.21366716313768488
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00059')/4.000 - energy('CsPbBrI3_O_04_00059')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00019')/4.000 - energy('CsPbBrI3_O_05_00033')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.2959231361836501
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00023')/4.000 - energy('CsPbBrI3_O_05_00033')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.07817696673536335
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00026')/4.000 - energy('CsPbBrI3_O_05_00033')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.44106670604975945
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00029')/4.000 - energy('CsPbBrI3_O_05_00033')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.33949153338364385
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00033')/4.000 - energy('CsPbBrI3_O_05_00033')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00079')/4.000 - energy('CsPbBrI3_O_05_00033')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.7967938410359632
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00023')/4.000 - energy('CsPbBrI3_O_06_00069')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.08192926281795876
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00063')/4.000 - energy('CsPbBrI3_O_06_00069')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.029098656596928653
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00069')/4.000 - energy('CsPbBrI3_O_06_00069')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00096')/4.000 - energy('CsPbBrI3_O_06_00069')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.14129090277462583
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00100')/4.000 - energy('CsPbBrI3_O_06_00069')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.6771151052183616
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00119')/4.000 - energy('CsPbBrI3_O_06_00069')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.6300803050044766
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00023')/4.000 - energy('CsPbBrI3_O_07_00044')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.5351099021569474
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00032')/4.000 - energy('CsPbBrI3_O_07_00044')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.02629276515575275
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00044')/4.000 - energy('CsPbBrI3_O_07_00044')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00059')/4.000 - energy('CsPbBrI3_O_07_00044')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.2616928748389806
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00061')/4.000 - energy('CsPbBrI3_O_07_00044')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.3074719132412146
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00074')/4.000 - energy('CsPbBrI3_O_07_00044')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.11738853574562144
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00006')/4.000 - energy('CsPbBrI3_O_08_00072')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.2584612281420998
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00012')/4.000 - energy('CsPbBrI3_O_08_00072')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.1512765209964533
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00051')/4.000 - energy('CsPbBrI3_O_08_00072')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.7915243918987678
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00055')/4.000 - energy('CsPbBrI3_O_08_00072')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.6382007289423945
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00063')/4.000 - energy('CsPbBrI3_O_08_00072')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.29498364970481317
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00072')/4.000 - energy('CsPbBrI3_O_08_00072')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00003')/4.000 - energy('CsPbBrI3_O_09_00004')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.5411837606485419
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00004')/4.000 - energy('CsPbBrI3_O_09_00004')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00008')/4.000 - energy('CsPbBrI3_O_09_00004')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.11725974261876904
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00009')/4.000 - energy('CsPbBrI3_O_09_00004')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.10777926556834845
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00012')/4.000 - energy('CsPbBrI3_O_09_00004')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.28161003431172354
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00026')/4.000 - energy('CsPbBrI3_O_09_00004')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.25932939989492804
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00003')/4.000 - energy('CsPbBrI3_O_10_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.03597450308606328
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00005')/4.000 - energy('CsPbBrI3_O_10_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.2001199018637577
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00007')/4.000 - energy('CsPbBrI3_O_10_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.20440166798939519
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00011')/4.000 - energy('CsPbBrI3_O_10_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.27019714149755003
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00012')/4.000 - energy('CsPbBrI3_O_10_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00014')/4.000 - energy('CsPbBrI3_O_10_00012')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.22793039658762496
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_11_00001')/4.000 - energy('CsPbBrI3_O_11_00002')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.07174953248426237
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_11_00002')/4.000 - energy('CsPbBrI3_O_11_00002')/4.000
+Weight: 100.0
+Sigma: 1.0
+ReferenceValue: 0.0
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_01_00002')/4.000 - energy('CsPbBrI3_O_00_00001')/4.364 - energy('CsPbBrI3_O_12_00001')/48.000
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.1440880696441965
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_02_00012')/4.000 - energy('CsPbBrI3_O_00_00001')/4.800 - energy('CsPbBrI3_O_12_00001')/24.000
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.08366637500845134
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_03_00030')/4.000 - energy('CsPbBrI3_O_00_00001')/5.333 - energy('CsPbBrI3_O_12_00001')/16.000
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.10989852937310707
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_04_00059')/4.000 - energy('CsPbBrI3_O_00_00001')/6.000 - energy('CsPbBrI3_O_12_00001')/12.000
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.5019754585483763
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_05_00033')/4.000 - energy('CsPbBrI3_O_00_00001')/6.857 - energy('CsPbBrI3_O_12_00001')/9.600
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.7099314863021339
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_06_00069')/4.000 - energy('CsPbBrI3_O_00_00001')/8.000 - energy('CsPbBrI3_O_12_00001')/8.000
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.6769192635658676
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_07_00044')/4.000 - energy('CsPbBrI3_O_00_00001')/9.600 - energy('CsPbBrI3_O_12_00001')/6.857
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.5532351230007744
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_08_00072')/4.000 - energy('CsPbBrI3_O_00_00001')/12.000 - energy('CsPbBrI3_O_12_00001')/6.000
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.386625282539546
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_09_00004')/4.000 - energy('CsPbBrI3_O_00_00001')/16.000 - energy('CsPbBrI3_O_12_00001')/5.333
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.46829319254887736
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_10_00012')/4.000 - energy('CsPbBrI3_O_00_00001')/24.000 - energy('CsPbBrI3_O_12_00001')/4.800
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.2550292814213229
+Unit: kcal/mol, 627.51
+---
+Expression: energy('CsPbBrI3_O_11_00002')/4.000 - energy('CsPbBrI3_O_00_00001')/48.000 - energy('CsPbBrI3_O_12_00001')/4.364
+Weight: 500.0
+Sigma: 1.0
+ReferenceValue: 0.19049133769976595
+Unit: kcal/mol, 627.51
+...

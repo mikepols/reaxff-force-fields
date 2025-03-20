@@ -1,0 +1,465 @@
+CHARGE
+### PbI2: Bulk charges
+ PbI2_Hex_opt 0.05 1 0.919
+ PbI2_Hex_opt 0.05 2 -0.459
+ PbI2_Hex_opt 0.05 3 -0.460
+### CsI: Bulk charges
+ CsI_CsCl_opt 0.05 1 0.793
+ CsI_CsCl_opt 0.05 2 -0.793
+### CsPbI3: Bulk charges
+ CsPbI3_cubic_opt 0.10 1 0.892
+ CsPbI3_cubic_opt 0.10 2 0.872
+ CsPbI3_cubic_opt 0.10 3 -0.588
+ CsPbI3_cubic_opt 0.10 4 -0.588
+ CsPbI3_cubic_opt 0.10 5 -0.588
+ CsPbI3_tetra_opt 0.10 1 0.929
+ CsPbI3_tetra_opt 0.10 2 0.929
+ CsPbI3_tetra_opt 0.10 3 0.841
+ CsPbI3_tetra_opt 0.10 4 0.841
+ CsPbI3_tetra_opt 0.10 5 -0.601
+ CsPbI3_tetra_opt 0.10 6 -0.601
+ CsPbI3_tetra_opt 0.10 7 -0.585
+ CsPbI3_tetra_opt 0.10 8 -0.584
+ CsPbI3_tetra_opt 0.10 9 -0.584
+ CsPbI3_tetra_opt 0.10 10 -0.585
+ CsPbI3_ortho_opt 0.10 1 0.938
+ CsPbI3_ortho_opt 0.10 2 0.938
+ CsPbI3_ortho_opt 0.10 3 0.938
+ CsPbI3_ortho_opt 0.10 4 0.938
+ CsPbI3_ortho_opt 0.10 5 0.821
+ CsPbI3_ortho_opt 0.10 6 0.821
+ CsPbI3_ortho_opt 0.10 7 0.821
+ CsPbI3_ortho_opt 0.10 8 0.821
+ CsPbI3_ortho_opt 0.10 9 -0.587
+ CsPbI3_ortho_opt 0.10 10 -0.587
+ CsPbI3_ortho_opt 0.10 11 -0.587
+ CsPbI3_ortho_opt 0.10 12 -0.587
+ CsPbI3_ortho_opt 0.10 13 -0.587
+ CsPbI3_ortho_opt 0.10 14 -0.587
+ CsPbI3_ortho_opt 0.10 15 -0.587
+ CsPbI3_ortho_opt 0.10 16 -0.587
+ CsPbI3_ortho_opt 0.10 17 -0.586
+ CsPbI3_ortho_opt 0.10 18 -0.586
+ CsPbI3_ortho_opt 0.10 19 -0.586
+ CsPbI3_ortho_opt 0.10 20 -0.586
+ENDCHARGE
+ENERGY
+### EOS: Relative energy bulk phases
+ 0.20 - PbI2_Hex_opt/1 + PbI2_MoS2_opt/2 5.030135
+### EOS: Hexagonal PbI2
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_080/1 9.297204
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_082/1 7.095478
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_084/1 5.290701
+ # 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_086/1 3.829971
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_088/1 2.666728
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_090/1 1.761330
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_092/1 1.077917
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_094/1 0.585519
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_096/1 0.256807
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_098/1 0.068653
+ 0.10 - PbI2_Hex_opt/1 + PbI2_Hex_100/1 0.000000
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_102/1 0.033116
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_104/1 0.152779
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_106/1 0.345869
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_108/1 0.601339
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_110/1 0.909134
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_112/1 1.261621
+ # 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_114/1 1.651606
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_116/1 2.074106
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_118/1 2.522574
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_120/1 2.994701
+### EOS: MoS2 PbI2
+ 2.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_080/2 8.864648
+ # 2.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_082/2 6.778274
+ 1.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_084/2 5.064288
+ # 1.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_086/2 3.674171
+ 0.50 - PbI2_MoS2_opt/2 + PbI2_MoS2_088/2 2.564245
+ # 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_090/2 1.697174
+ 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_092/2 1.039867
+ # 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_094/2 0.564695
+ 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_096/2 0.246476
+ # 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_098/2 0.064294
+ 0.10 - PbI2_MoS2_opt/2 + PbI2_MoS2_100/2 0.000000
+ # 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_102/2 0.037843
+ 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_104/2 0.164586
+ # 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_106/2 0.368838
+ 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_108/2 0.641234
+ # 0.20 - PbI2_MoS2_opt/2 + PbI2_MoS2_110/2 0.973174
+ 0.50 - PbI2_MoS2_opt/2 + PbI2_MoS2_112/2 1.357394
+ # 1.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_114/2 1.788173
+ 1.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_116/2 2.261016
+ # 2.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_118/2 2.770180
+ 2.00 - PbI2_MoS2_opt/2 + PbI2_MoS2_120/2 3.313428
+### EOS: Hexagonal PbI2 - uniaxial
+ 5.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_080/1 17.864665
+ # 5.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_082/1 13.645862
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_084/1 10.202855
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_086/1 7.416579
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_088/1 5.190616
+ # 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_090/1 3.446605
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_092/1 2.118522
+ # 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_094/1 1.152243
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_096/1 0.501508
+ # 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_098/1 0.128680
+ 0.10 - PbI2_Hex_opt/1 + PbI2_Hex_a_100/1 0.000000
+ # 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_102/1 0.088278
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_104/1 0.371674
+ # 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_106/1 0.833471
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_108/1 1.458885
+ # 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_a_110/1 2.237240
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_112/1 3.159588
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_114/1 4.219310
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_116/1 5.407805
+ # 5.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_118/1 6.714671
+ 5.00 - PbI2_Hex_opt/1 + PbI2_Hex_a_120/1 8.124137
+### EOS: Hexagonal PbI2 - planar
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_080/1 9.713109
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_082/1 7.544129
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_084/1 5.726692
+ # 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_086/1 4.222169
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_ab_088/1 2.994609
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_090/1 2.013733
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_092/1 1.254011
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_094/1 0.692084
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_096/1 0.307864
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_098/1 0.082212
+ 0.10 - PbI2_Hex_opt/1 + PbI2_Hex_ab_100/1 0.000000
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_102/1 0.045776
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_104/1 0.206765
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_106/1 0.472059
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_108/1 0.831649
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_ab_110/1 1.276634
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_ab_112/1 1.798597
+ # 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_114/1 2.390526
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_116/1 3.044721
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_118/1 3.757744
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_ab_120/1 4.522424
+### EOS: Hexagonal PbI2 - out of plane
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_080/1 13.690601
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_082/1 10.528500
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_084/1 7.873025
+ # 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_086/1 5.687488
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_c_088/1 3.931508
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_090/1 2.562930
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_092/1 1.537454
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_094/1 0.812808
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_096/1 0.342571
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_098/1 0.086018
+ 0.10 - PbI2_Hex_opt/1 + PbI2_Hex_c_100/1 0.000000
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_102/1 0.047875
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_104/1 0.195211
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_106/1 0.413737
+ 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_108/1 0.677878
+ # 0.20 - PbI2_Hex_opt/1 + PbI2_Hex_c_110/1 0.968239
+ 0.50 - PbI2_Hex_opt/1 + PbI2_Hex_c_112/1 1.269808
+ # 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_114/1 1.570662
+ 1.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_116/1 1.862914
+ # 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_118/1 2.141329
+ 2.00 - PbI2_Hex_opt/1 + PbI2_Hex_c_120/1 2.402310
+### Phase Transition: Relative energy along path
+ 0.50 - PbI2_ML_PT_00/1 + PbI2_ML_PT_00/1 0.000000
+ 2.00 - PbI2_ML_PT_00/1 + PbI2_ML_PT_01/1 -0.004612
+ 2.00 - PbI2_ML_PT_00/1 + PbI2_ML_PT_02/1 0.929358
+ 2.00 - PbI2_ML_PT_00/1 + PbI2_ML_PT_03/1 5.843657
+ 2.00 - PbI2_ML_PT_00/1 + PbI2_ML_PT_04/1 8.022922
+ 2.00 - PbI2_ML_PT_00/1 + PbI2_ML_PT_05/1 5.334009
+ 0.50 - PbI2_ML_PT_00/1 + PbI2_ML_PT_06/1 4.812831
+### EOS: Hexagonal ML PbI2 - uniaxial
+ 5.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_080/1 13.753788
+ # 5.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_082/1 10.385544
+ 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_084/1 7.704288
+ # 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_086/1 5.574397
+ 1.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_088/1 3.893735
+ # 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_090/1 2.584746
+ 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_092/1 1.589941
+ # 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_094/1 0.864165
+ 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_096/1 0.373519
+ # 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_098/1 0.092359
+ 0.10 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_100/1 0.000000
+ # 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_102/1 0.080460
+ 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_104/1 0.321609
+ # 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_106/1 0.714914
+ 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_108/1 1.254011
+ # 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_110/1 1.933688
+ 1.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_112/1 2.750555
+ # 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_114/1 3.701913
+ 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_116/1 4.782759
+ # 5.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_118/1 5.986197
+ 5.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_a_120/1 7.299222
+### EOS: Hexagonal ML PbI2 - planar
+ 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_080/1 7.163208
+ # 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_082/1 5.570823
+ 1.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_084/1 4.234069
+ # 1.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_086/1 3.123105
+ 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_088/1 2.214778
+ # 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_090/1 1.487135
+ 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_092/1 0.922555
+ # 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_094/1 0.504644
+ 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_096/1 0.219748
+ # 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_098/1 0.055047
+ 0.10 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_100/1 0.000000
+ # 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_102/1 0.044761
+ 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_104/1 0.180360
+ # 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_106/1 0.399163
+ 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_108/1 0.694505
+ # 0.20 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_110/1 1.060829
+ 0.50 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_112/1 1.492001
+ # 1.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_114/1 1.983384
+ 1.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_116/1 2.529584
+ # 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_118/1 3.126749
+ 2.00 - PbI2_Hex_ML_opt/1 + PbI2_Hex_ML_ab_120/1 3.772411
+### EOS: MoS2 ML PbI2 - uniaxial
+ 5.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_080/1 16.135413
+ # 5.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_082/1 11.987684
+ 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_084/1 8.750012
+ # 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_086/1 6.232304
+ 1.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_088/1 4.290453
+ # 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_090/1 2.812243
+ 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_092/1 1.711449
+ # 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_094/1 0.922947
+ 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_096/1 0.397526
+ # 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_098/1 0.099647
+ 0.10 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_100/1 0.000000
+ # 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_102/1 0.079630
+ 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_104/1 0.319879
+ # 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_106/1 0.707973
+ 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_108/1 1.228898
+ # 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_110/1 1.867065
+ 1.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_112/1 2.602319
+ # 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_114/1 3.410560
+ 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_116/1 4.260843
+ # 5.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_118/1 5.117743
+ 5.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_a_120/1 5.948285
+### EOS: MoS2 ML PbI2 - planar
+ 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_080/1 8.646722
+ # 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_082/1 6.759202
+ 1.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_084/1 5.166494
+ # 1.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_086/1 3.834721
+ 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_088/1 2.737640
+ # 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_090/1 1.851960
+ 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_092/1 1.158515
+ # 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_094/1 0.639574
+ 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_096/1 0.281828
+ # 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_098/1 0.072573
+ 0.10 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_100/1 0.000000
+ # 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_102/1 0.056315
+ 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_104/1 0.231417
+ # 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_106/1 0.519979
+ 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_108/1 0.914922
+ # 0.20 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_110/1 1.410180
+ 0.50 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_112/1 1.998997
+ # 1.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_114/1 2.677267
+ 1.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_116/1 3.438395
+ # 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_118/1 4.278092
+ 2.00 - PbI2_MoS2_ML_opt/1 + PbI2_MoS2_ML_ab_120/1 5.187042
+### PbI2: Defect formation energies
+ 5.00 - PbI2_Hex_441_pris/1 + PbI2_Hex_441_VI/1 91.4281
+ 10.00 - PbI2_Hex_441_pris/1 + PbI2_Hex_441_VPb/1 173.9468
+ # 10.00 - PbI2_Hex_441_pris/1 + PbI2_Hex_441_VI2/1 180.8969
+ # 12.50 - PbI2_Hex_441_pris/1 + PbI2_Hex_441_VPbI/1 213.0258
+ # 15.00 - PbI2_Hex_441_pris/1 + PbI2_Hex_441_VPbI2/1 251.2911
+ 5.00 - PbI2_MoS2_441_pris/1 + PbI2_MoS2_441_VI/1 90.6708
+ 10.00 - PbI2_MoS2_441_pris/1 + PbI2_MoS2_441_VPb/1 171.3342
+### PbI2: Defect migration barrier - VI diagonal
+ # 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_0/1 0.0000
+ # 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_1/1 5.3894
+ # 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_2/1 21.9771
+ 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_3/1 23.9073
+ # 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_4/1 21.9771
+ # 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_5/1 5.3894
+ # 1.00 - PbI2_441_VI_d_0/1 + PbI2_441_VI_d_6/1 0.0000
+### PbI2: Defect migration barrier - VI planar
+ # 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_0/1 0.0000
+ # 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_1/1 2.9426
+ # 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_2/1 10.0477
+ 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_3/1 17.0928
+ # 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_4/1 10.3198
+ # 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_5/1 3.1870
+ # 1.00 - PbI2_441_VI_p_0/1 + PbI2_441_VI_p_6/1 0.0000
+### PbI2: Defect migration barrier - VPb planar
+ # 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_0/1 0.0000
+ # 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_1/1 3.7958
+ # 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_2/1 11.8441
+ 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_3/1 9.4043
+ # 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_4/1 11.7519
+ # 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_5/1 3.2239
+ # 1.00 - PbI2_441_VPb_p_0/1 + PbI2_441_VPb_p_6/1 0.0507
+### EOS: CsCl CsI
+ 2.00 - CsI_CsCl_opt/1 + CsI_CsCl_080/1 5.241696
+ # 2.00 - CsI_CsCl_opt/1 + CsI_CsCl_082/1 4.043769
+ 1.00 - CsI_CsCl_opt/1 + CsI_CsCl_084/1 3.047188
+ # 1.00 - CsI_CsCl_opt/1 + CsI_CsCl_086/1 2.228246
+ 0.50 - CsI_CsCl_opt/1 + CsI_CsCl_088/1 1.566003
+ # 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_090/1 1.042173
+ 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_092/1 0.640473
+ # 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_094/1 0.347045
+ 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_096/1 0.149597
+ # 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_098/1 0.037151
+ 0.10 - CsI_CsCl_opt/1 + CsI_CsCl_100/1 0.000000
+ # 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_102/1 0.029587
+ 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_104/1 0.118580
+ # 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_106/1 0.259897
+ 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_108/1 0.447822
+ # 0.20 - CsI_CsCl_opt/1 + CsI_CsCl_110/1 0.676656
+ 0.50 - CsI_CsCl_opt/1 + CsI_CsCl_112/1 0.941950
+ # 1.00 - CsI_CsCl_opt/1 + CsI_CsCl_114/1 1.238837
+ 1.00 - CsI_CsCl_opt/1 + CsI_CsCl_116/1 1.564712
+ # 2.00 - CsI_CsCl_opt/1 + CsI_CsCl_118/1 1.914985
+ 2.00 - CsI_CsCl_opt/1 + CsI_CsCl_120/1 2.287720
+### EOS: Relative energy bulk phases
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_cubic_opt/1 3.447360
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_tetra_opt/2 0.941402
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_opt/4 0.000000
+### Formation energies: CsPbI3
+ 0.10 + CsPbI3_cubic_opt/1 - PbI2_Hex_opt/1 - CsI_CsCl_opt/1 2.422450
+ 0.10 + CsPbI3_tetra_opt/2 - PbI2_Hex_opt/1 - CsI_CsCl_opt/1 -0.083508
+ 0.10 + CsPbI3_ortho_opt/4 - PbI2_Hex_opt/1 - CsI_CsCl_opt/1 -1.024910
+### EOS: Cubic CsPbI3
+ 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_080/1 18.475159
+ # 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_082/1 14.299019
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_084/1 10.806454
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_086/1 7.921730
+ 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_088/1 5.578110
+ # 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_090/1 3.716442
+ 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_092/1 2.284307
+ # 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_094/1 1.236023
+ 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_096/1 0.529481
+ # 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_098/1 0.128496
+ 0.10 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_100/1 0.000000
+ # 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_102/1 0.114775
+ 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_104/1 0.447199
+ # 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_106/1 0.973912
+ 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_108/1 1.675289
+ # 0.20 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_110/1 2.530691
+ 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_112/1 3.524989
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_114/1 4.641003
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_116/1 5.868171
+ # 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_118/1 7.189613
+ 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_cubic_120/1 8.596910
+### EOS: Cubic CsPbI3 - planar
+ 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_080/1 28.374877
+ # 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_082/1 21.676579
+ 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_084/1 16.171296
+ # 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_086/1 11.703780
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_088/1 8.139357
+ # 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_090/1 5.356102
+ 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_092/1 3.252362
+ # 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_094/1 1.737877
+ 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_096/1 0.735254
+ # 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_098/1 0.176163
+ 0.10 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_100/1 0.000000
+ # 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_102/1 0.155777
+ 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_104/1 0.598502
+ # 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_106/1 1.289733
+ 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_108/1 2.196906
+ # 0.50 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_110/1 3.287415
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_112/1 4.534646
+ # 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_114/1 5.917268
+ 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_116/1 7.414504
+ # 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_118/1 9.010671
+ 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_pla_120/1 10.687482
+### EOS: Cubic CsPbI3 - uniaxial
+ 10.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_080/1 68.090808
+ # 10.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_082/1 51.486104
+ 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_084/1 37.572296
+ # 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_086/1 26.391839
+ 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_088/1 17.769377
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_090/1 11.314096
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_092/1 6.647057
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_094/1 3.438095
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_096/1 1.407205
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_098/1 0.324929
+ 0.10 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_100/1 0.000000
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_102/1 0.272812
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_104/1 1.016344
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_106/1 2.123272
+ 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_108/1 3.505134
+ # 1.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_110/1 5.091361
+ 2.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_112/1 6.822897
+ # 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_114/1 8.653225
+ 5.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_116/1 10.542313
+ # 10.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_118/1 12.460550
+ 10.00 - CsPbI3_cubic_opt/1 + CsPbI3_c_uni_120/1 14.381370
+### EOS: Tetragonal CsPbI3
+ 2.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_080/2 18.523541
+ # 2.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_082/2 14.322864
+ 1.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_084/2 10.816762
+ # 1.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_086/2 7.926112
+ 0.50 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_088/2 5.581062
+ # 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_090/2 3.721215
+ 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_092/2 2.291894
+ # 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_094/2 1.245156
+ 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_096/2 0.539074
+ # 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_098/2 0.133892
+ 0.10 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_100/2 0.000000
+ # 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_102/2 0.102437
+ 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_104/2 0.416205
+ # 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_106/2 0.919281
+ 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_108/2 1.585559
+ # 0.20 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_110/2 2.399520
+ 0.50 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_112/2 3.343130
+ # 1.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_114/2 4.400108
+ 1.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_116/2 5.561391
+ # 2.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_118/2 6.804033
+ 2.00 - CsPbI3_tetra_opt/2 + CsPbI3_tetra_120/2 8.128956
+### EOS: Orthorhombic CsPbI3
+ 2.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_080/4 14.678165
+ # 2.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_082/4 11.391788
+ 1.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_084/4 8.644093
+ # 1.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_086/4 6.368226
+ 0.50 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_088/4 4.514790
+ # 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_090/4 3.030492
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_092/4 1.879771
+ # 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_094/4 1.027713
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_096/4 0.446092
+ # 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_098/4 0.113091
+ 0.10 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_100/4 0.000000
+ # 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_102/4 0.089131
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_104/4 0.367362
+ # 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_106/4 0.808403
+ 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_108/4 1.403469
+ # 0.20 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_110/4 2.134065
+ 0.50 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_112/4 2.989697
+ # 1.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_114/4 3.952586
+ 1.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_116/4 5.016736
+ # 2.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_118/4 6.165220
+ 2.00 - CsPbI3_ortho_opt/4 + CsPbI3_ortho_120/4 7.385262
+### CsPbI3: Defect formation energies
+### CsPbI3: Defect formation energies
+ 5.00 - CsPbI3_o_222_pris/1 + CsPbI3_o_222_VI_e/1 99.1321
+ 5.00 - CsPbI3_o_222_pris/1 + CsPbI3_o_222_VI_a/1 98.6985
+ 7.50 - CsPbI3_o_222_pris/1 + CsPbI3_o_222_VCs/1 118.4305
+ 10.00 - CsPbI3_o_222_pris/1 + CsPbI3_o_222_VPb/1 159.9225
+### Orthorhombic CsPbI3: Defect migration barrier - VI eq to eq
+ # 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_0/1 0.0000
+ # 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_1/1 2.7373
+ # 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_2/1 8.5695
+ 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_3/1 12.6651
+ # 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_4/1 9.7202
+ # 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_5/1 2.8042
+ # 1.00 - CsPbI3_221_VI_ee_0/1 + CsPbI3_221_VI_ee_6/1 0.0692
+### Orthorhombic CsPbI3: Defect migration barrier - VI ax to eq
+ # 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_0/1 0.0000
+ # 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_1/1 1.4528
+ # 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_2/1 7.7877
+ 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_3/1 11.4982
+ # 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_4/1 7.9883
+ # 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_5/1 4.2063
+ # 1.00 - CsPbI3_221_VI_ae_0/1 + CsPbI3_221_VI_ae_6/1 2.2415
+### Orthorhombic CsPbI3: Defect migration barrier - VI ax to ax
+ # 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_0/1 0.0000
+ # 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_1/1 1.9925
+ # 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_2/1 9.6649
+ 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_3/1 19.4520
+ # 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_4/1 10.3774
+ # 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_5/1 3.0487
+ # 1.00 - CsPbI3_221_VI_aa_0/1 + CsPbI3_221_VI_aa_6/1 -0.2790
+### Orthorhombic CsPbI3: Defect migration barrier - VCs planar
+ # 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_0/1 0.0000
+ # 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_1/1 2.9587
+ # 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_2/1 12.3861
+ 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_3/1 19.5442
+ # 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_4/1 13.1955
+ # 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_5/1 3.7728
+ # 1.00 - CsPbI3_221_VCs_p_0/1 + CsPbI3_221_VCs_p_6/1 -0.0138
+ENDENERGY

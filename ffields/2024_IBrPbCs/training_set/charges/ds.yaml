@@ -1,0 +1,538 @@
+---
+dtype: DataSet
+version: '2022.104'
+---
+Expression: charges('CsI_CsCl', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8036
+Unit: au, 1.0
+---
+Expression: charges('CsI_CsCl', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.8036
+Unit: au, 1.0
+---
+Expression: charges('PbI2_Hex', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.5525
+Unit: au, 1.0
+---
+Expression: charges('PbI2_Hex', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.2763
+Unit: au, 1.0
+---
+Expression: charges('PbI2_Hex', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.2763
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Cubic', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8146
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Cubic', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8298
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Cubic', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5481
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Cubic', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5481
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Cubic', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5481
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8008
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8008
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8052
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8052
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.554
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=5)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.554
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=6)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.526
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=7)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.526
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=8)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.526
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Tetragonal', atomindex=9)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.526
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7828
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7828
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7828
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7828
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7758
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=5)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7758
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=6)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7758
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=7)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.7758
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=8)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=9)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=10)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=11)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=12)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=13)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=14)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=15)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5194
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=16)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5198
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=17)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5198
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=18)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5198
+Unit: au, 1.0
+---
+Expression: charges('CsPbI3_Orthorhombic', atomindex=19)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5198
+Unit: au, 1.0
+---
+Expression: charges('CsBr_CsCl', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8221
+Unit: au, 1.0
+---
+Expression: charges('CsBr_CsCl', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.8221
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9013
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9013
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9013
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9013
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4496
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=5)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4496
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=6)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4496
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=7)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4496
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=8)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4518
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=9)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4518
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=10)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4518
+Unit: au, 1.0
+---
+Expression: charges('PbBr2_PbCl2', atomindex=11)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.4518
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Cubic', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9458
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Cubic', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8426
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Cubic', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5961
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Cubic', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5961
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Cubic', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5961
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.943
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.943
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8256
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8256
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.6032
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=5)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.6032
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=6)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5827
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=7)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5827
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=8)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5827
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Tetragonal', atomindex=9)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5827
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=0)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9379
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=1)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9379
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=2)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9379
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=3)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.9379
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=4)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8085
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=5)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8085
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=6)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8085
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=7)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: 0.8085
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=8)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=9)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=10)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=11)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=12)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=13)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=14)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=15)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5821
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=16)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5823
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=17)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5823
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=18)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5823
+Unit: au, 1.0
+---
+Expression: charges('CsPbBr3_Orthorhombic', atomindex=19)
+Weight: 10.0
+Sigma: 1.0
+ReferenceValue: -0.5823
+Unit: au, 1.0
+...

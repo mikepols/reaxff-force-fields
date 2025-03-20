@@ -4,9 +4,9 @@ An overview of (co-)developed ReaxFF force fields, covering material systems suc
 
 ## Available force fields
 
- - `IPbCs.ff (I/Pb/Cs)`: A force field trained for the description of bulk pristine and defective CsPbI<sub>3</sub> and its precursors. The force field has been used to describe the phase behavior [1], stability of surfaces and grain boundaries [2], and defect migration at interfaces of CsPbI<sub>3</sub> [3].
- - `IBrPbCs.ff (I/Br/Pb/Cs)`: Extension of the CsPbI<sub>3</sub> parameter set to capture the behavior of mixed halide perovskites (CsPb(Br<sub>x</sub>I<sub>1-x</sub>)<sub>3</sub>). The force field was used to explore the effects of mixing strain on their phase behavior [4].
- - `HRu.ff (H/Ru)`: A force field trained to describe the interaction of atomic hydrogen (H) with bulk ruthenium (Ru). It was used to model the migration of H through Ru films to assess the effects of the microstructure of the Ru films [5].
+ - `2021_IPbCs (I/Pb/Cs)`: A force field trained for the description of bulk pristine and defective CsPbI<sub>3</sub> and its precursors. The force field has been used to describe the phase behavior [1], stability of surfaces and grain boundaries [2], and defect migration at interfaces of CsPbI<sub>3</sub> [3].
+ - `2024_IBrPbCs (I/Br/Pb/Cs)`: Extension of the CsPbI<sub>3</sub> parameter set to capture the behavior of mixed halide perovskites (CsPb(Br<sub>x</sub>I<sub>1-x</sub>)<sub>3</sub>). The force field was used to explore the effects of mixing strain on their phase behavior [4].
+ - `2022_HRu (H/Ru)`: A force field trained to describe the interaction of atomic hydrogen (H) with bulk ruthenium (Ru). It was used to model the migration of H through Ru films to assess the effects of the microstructure of the Ru films [5].
 
 ## Usage
 
